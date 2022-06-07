@@ -1,0 +1,42 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  .b2 {
+    font-weight: 650;
+  }
+  .content-color{
+    background-color: rgb(130, 189, 199)
+  }
+  
+  .d {
+    display: flex;
+    position: center;
+    margin-left: 5px;
+  }
+  .btn {
+    width: 178px;
+    margin-top: 4px;
+  }
+  .btn-1 {
+    margin: 2px;
+  }
+  
+  .movie-details {
+    padding: 0 5px;
+  }
+  .text-contain {
+    width: 400px;
+  }
+  
+  .dc {
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+  }
+
+  .lk {
+    margin-left: 5px;
+  }
