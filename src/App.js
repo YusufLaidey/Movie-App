@@ -7,7 +7,6 @@ import "./Style.css";
 
 const App = () => {
   const [movies, setMovies] = useState(content.results);
-  const [filterStr, setFilterStr] = useState("");
   const [currentMovie, setCurrentMovie] = useState(movies[0]);
   //const filterByText = (t) => t.original_title;
   const filterValue = (t) => {
